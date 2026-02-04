@@ -16,11 +16,11 @@ Most of my projects are currently private because they're not finished enough to
 
 ### Random facts about me:
 
-**Favourite language (/ group of languages):**\
-HTML + CSS
+**Favourite language:**\
+Java
     
 **Favourite module in my uni course so far:**\
 Networks (never thought I'd say that)
 
 **What I'd like to do after uni:**\
-Something to do with computer architecture / hardware / electronics
+Something to do with robotics / electronics, or network infrastructure
