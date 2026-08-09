@@ -2,7 +2,7 @@
 
 ---
 
-I'm a first year computer science student at the University of Nottingham
+I'm a second year computer science student at the University of Nottingham
 
 I just start random projects really
 
