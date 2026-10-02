@@ -10,7 +10,7 @@ Most of my projects are currently private because they're not finished enough to
 
 ---
 
-> Portfolio: COMING SOON
+> Portfolio: [pledgej.dev](https://pledgej.dev)
 
 ---
 
