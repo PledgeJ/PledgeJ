@@ -17,7 +17,7 @@ Most of my projects are currently private because they're not finished enough to
 ### Random facts about me:
 
 **Favourite language:**\
-Java
+TypeScript
     
 **Favourite module in my uni course so far:**\
 Networks (never thought I'd say that)
