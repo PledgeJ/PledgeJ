@@ -23,4 +23,4 @@ TypeScript
 Networks (never thought I'd say that)
 
 **What I'd like to do after uni:**\
-Something to do with robotics / electronics, or network infrastructure
+Something to do with robotics / electronics, network infrastructure, or frontend development
