@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Jacob</h1>
-<h5 align="center">2nd year CS Undergraduate @ University of Nottingham</h5>
+<h2 align="center">👋 Hi, I'm Jacob</h2>
+<h3 align="center">2nd year CS Undergraduate @ University of Nottingham</h3>
 <br/>
 <div align="center">
     <a href="https://instagram.com/jacobpledge"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
